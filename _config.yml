@@ -1,0 +1,28 @@
+name: doesthisthingwork
+favicon: null
+layout_spectrum: 0.20195995876565576
+typography_spectrum: 0.4304499241989106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3983613180462271
+  lightness: 0.37434201361611485
+  saturation: 0.2178244108799845
+  rhythmicContrast: 0.3148776243906468
+purpose: []
