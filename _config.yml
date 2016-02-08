@@ -1,4 +1,4 @@
-name: doesthisthingwork
+name: betanewsfeed
 favicon: null
 layout_spectrum: 0.77128
 typography_spectrum: 0.4304499241989106
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3983613180462271
-  lightness: 0.37434201361611485
-  saturation: 0.2178244108799845
-  rhythmicContrast: 0.3148776243906468
+    - '#141420'
+    - '#e4e7ec'
+    - '#8cafba'
+    - '#3a383d'
+    - '#73787e'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
