@@ -1,29 +1,41 @@
-name: betanewsfeed
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.4304499241989106
 title: Testing Page for RT
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6899642
+  brandStrength: 0.5394265
+  lightness: 0.8351254
+  brandColors:
+    - '#BDA490'
+    - '#C5414C'
+    - '#65435C'
+    - '#C6985D'
+    - '#0F0000'
+  rhythmicContrast: 0.7114695
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: betanewsfeed
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#141420'
-    - '#e4e7ec'
-    - '#8cafba'
-    - '#3a383d'
-    - '#73787e'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.6308244
+layout_spectrum: 1
