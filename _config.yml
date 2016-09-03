@@ -37,6 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Testing Page for RT
+title: Test this shit
 description: 'Yes'
 purpose: []
